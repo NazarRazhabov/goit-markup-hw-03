@@ -1707,6 +1707,33 @@ background: #2F303A;
     text-decoration: none;
     color: rgba(255, 255, 255, 0.6);
   }
+  
+  .Navigetion{
+    font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+  }
+
+  .Navigation-portfolio{
+    font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+  }
 
 
 
